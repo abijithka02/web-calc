@@ -1,0 +1,71 @@
+.calc{
+    width: 400px;
+    height: 540px;
+    background:#0e2b47;
+    margin-left: 525px;
+    margin-top:75px
+    
+    
+}
+.screen{
+    width: 360px;
+    height: 80px;
+    margin-left:15px;
+    margin-top: 20px;
+    pointer-events: none;
+    border-radius: 25px;
+    text-align: right;
+    background: #d5e3e3;
+    font-family:Tahoma,Arial,sans-serif;
+    font-size: 40px;
+}
+.btn{
+    width: 30px;
+    height: 30px;
+    padding: 37px;
+    margin-top: 10px;
+    margin-left: 15px;
+    background: 	#b5c3d1;
+    border-radius: 25px;
+    text-align: center;
+    font-family:    Arial, Helvetica, sans-serif;
+    font-size:      20px;
+    font-weight:    bold;
+    
+}
+#cal{
+    border-radius: 25px;
+}
+.btn1{
+    appearance: button;
+    background-color: #1899D6;
+    border: solid transparent;
+    border-radius: 16px;
+    border-width: 0 0 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: din-round,sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: .8px;
+    line-height: 20px;
+    margin: 0;
+    outline: none;
+    overflow: visible;
+    padding: 13px 16px;
+    text-align: center;
+    text-transform: uppercase;
+    touch-action: manipulation;
+    transform: translateZ(0);
+    transition: filter .2s;
+    user-select: none;
+    -webkit-user-select: none;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 100%;
+    width: 356px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
